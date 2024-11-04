@@ -8,7 +8,6 @@ This project implements real-time Lidar data processing and mapping for autonomo
 - [Components](#components)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Future Scope](#future-scope)
 - [License](#license)
 
