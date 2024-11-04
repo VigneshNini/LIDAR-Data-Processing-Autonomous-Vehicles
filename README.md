@@ -9,7 +9,6 @@ This project implements real-time Lidar data processing and mapping for autonomo
 - [Installation](#installation)
 - [Usage](#usage)
 - [Future Scope](#future-scope)
-- [License](#license)
 
 ## Objectives
 - **Lidar Data Processing**: Collect and preprocess Lidar data using the ESP32 for real-time applications.
