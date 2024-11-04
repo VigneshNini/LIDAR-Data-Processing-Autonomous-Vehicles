@@ -48,7 +48,7 @@ This project aims to implement real-time Lidar data processing and mapping for a
 
 [Slam image](https://github.com/user-attachments/assets/d9b0eb00-d8ec-4341-8b7c-6e8142621d70)
 
-![image](https://github.com/user-attachments/assets/d7d24d2a-93b5-43f7-9928-ebcb7b0d6aea)
+![Prototype image](https://github.com/user-attachments/assets/d7d24d2a-93b5-43f7-9928-ebcb7b0d6aea)
 
 
 
