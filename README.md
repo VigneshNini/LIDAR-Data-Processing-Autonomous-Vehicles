@@ -50,6 +50,7 @@ This project aims to implement real-time Lidar data processing and mapping for a
 
 ![Prototype image](https://github.com/user-attachments/assets/d7d24d2a-93b5-43f7-9928-ebcb7b0d6aea)
 
+Prototype image
 
 
 
