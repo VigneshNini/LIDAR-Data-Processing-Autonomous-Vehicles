@@ -40,6 +40,11 @@ This project implements real-time Lidar data processing and mapping for autonomo
    ```bash
    git clone https://github.com/yourusername/LIDAR-Data-Processing-Autonomous-Vehicles.git
 
+## Usage
+1. Connect the YDLidar X2 to the ESP32 and ensure it is powered on.
+2. Run the ESP32 code to start collecting and processing Lidar data.
+3. Launch the ROS nodes for SLAM
+
 ### Future Scope
 1. Integration with additional sensors (e.g., cameras, ultrasonic sensors) for enhanced environmental perception.
 2. Development of advanced navigation algorithms for improved path planning.
