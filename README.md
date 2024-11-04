@@ -36,7 +36,7 @@ This project implements real-time Lidar data processing and mapping for autonomo
 ### Setting Up the ROS Environment
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/LIDAR-Data-Processing-Autonomous-Vehicles.git
+   git clone https://github.com/VigneshNini/LIDAR-Data-Processing-Autonomous-Vehicles.git
 
 ## Usage
 1. Connect the YDLidar X2 to the ESP32 and ensure it is powered on.
