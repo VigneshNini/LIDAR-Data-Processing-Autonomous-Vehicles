@@ -40,10 +40,10 @@ This project implements real-time Lidar data processing and mapping for autonomo
    ```bash
    git clone https://github.com/yourusername/LIDAR-Data-Processing-Autonomous-Vehicles.git
 
-###Future Scope
-Integration with additional sensors (e.g., cameras, ultrasonic sensors) for enhanced environmental perception.
-Development of advanced navigation algorithms for improved path planning.
-Optimization of the data processing pipeline for real-time performance on low-power devices.
+### Future Scope
+1. Integration with additional sensors (e.g., cameras, ultrasonic sensors) for enhanced environmental perception.
+2. Development of advanced navigation algorithms for improved path planning.
+3. Optimization of the data processing pipeline for real-time performance on low-power devices.
 
 
 [System Design Image](https://github.com/user-attachments/assets/0cf5b1a5-dcdc-42eb-94f0-bfde31ff3000)
