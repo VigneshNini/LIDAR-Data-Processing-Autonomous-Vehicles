@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/4829fc98-6f04-44ea-8cef-ba9b91dfd8d4)# Real-time Lidar Data Processing and Mapping for Autonomous Vehicles
+# Real-time Lidar Data Processing and Mapping for Autonomous Vehicles
 
 ## Project Overview
 This project aims to implement real-time Lidar data processing and mapping for autonomous vehicles using ESP32 and SLAM algorithms. The system leverages ESP32 microcontroller capabilities to collect, transmit, and process Lidar data in real-time, facilitating safe navigation for autonomous vehicles. The project report and source code are included.
